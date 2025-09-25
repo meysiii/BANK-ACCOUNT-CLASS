@@ -71,7 +71,7 @@ Balance: 1000
 
 Clone this repository:
 
-git clone https://github.com/your-username/bank-account-class.git
+git clone https://github.com/meysiii/BANK-ACCOUNT-CLASS
 cd bank-account-class
 
 
